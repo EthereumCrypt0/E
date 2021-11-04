@@ -2154,22 +2154,6 @@ td[style*="#fff"] {
     color: #fff;
 }
 
-#hiddenClasses::before {
-    content: "NOTICE";
-    display: block;
-    padding: 4px 4px 0px 4px;
-    margin-bottom: 8px;
-    background-color: #000;
-    color: #fff;
-    box-shadow: 4px 4px var(--accent);
-}
-
-#menuClassPicker0::before {
-    content: "moving websites, reinstall at whuuayu.github.io/krunker";
-    display: block;
-    color: var(--accent)
-}
-
 #rankedSoonTm {
     display: none!important;
 }
